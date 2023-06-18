@@ -189,6 +189,7 @@ section.atlantic{
 /* section: aurora */
 .aurora .content{
   background-image: url('images/aurora.png');
+  background-size: cover;
   height: 95%;
 }
 .aurora .statement{
@@ -218,8 +219,6 @@ section.atlantic{
   font-size: 28px;
   font-family: var(--base-font);
 }
-/* .aurora .button p{
-} */
 
 /* footer */
 footer{
